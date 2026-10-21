@@ -12,6 +12,8 @@
 Tratar senhas de usuários com hash bcript
 O sistema deve ter uma página de históricos e manter sempre os logs de qualquer alteração feita por 
 qualquer usuário, para auditorias futuras.
+após entrar no site vamos buscar o quiz do tema desejado. o quiz vai ser gerador pelos usuários e vai ficar na base para pesquisa, então vamos buscar agora pelo momento alguns quizzes, do site https://quizonline.com.br/
+cada quiz vai ter sua pontuação baseado na quantidade de perguntas.
 
 
 
