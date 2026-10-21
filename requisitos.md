@@ -1,7 +1,8 @@
 # Quizur
 
 ## Objetivos
-
+Produza um site onde as pessoas vão logar e criar contas, criar quizzes que ficarão para outros usuários testarem seus conhecimentos.
+Ao final de cada quiz terá uma sessão com um gráfico que mostrará o desempenho do usuário.
 
 ### Stack Tecnlógico
 - Backend: PHP estruturado com sessões nativas
@@ -10,8 +11,7 @@
 
 #### Regras de negócio (CORE)
 Tratar senhas de usuários com hash bcript
-O sistema deve ter uma página de históricos e manter sempre os logs de qualquer alteração feita por 
-qualquer usuário, para auditorias futuras.
+O sistema deve ter uma página de históricos e manter sempre os logs de qualquer alteração feita por qualquer usuário, para auditorias futuras. onde apenas o adm do site vê essas informações.
 após entrar no site vamos buscar o quiz do tema desejado. o quiz vai ser gerador pelos usuários e vai ficar na base para pesquisa, então vamos buscar agora pelo momento alguns quizzes, do site https://quizonline.com.br/
 cada quiz vai ter sua pontuação baseado na quantidade de perguntas.
 As cores do site serão majoritariamente rosa, azul e roxo.
