@@ -1,0 +1,5 @@
+# PHP portable local environment
+tools/
+data/*.sqlite
+data/*.sqlite-journal
+*.log
